@@ -1,0 +1,31 @@
+﻿  Armor.cpp
+  Battle.cpp
+  Character.cpp
+E:\VGD\Ty\Portfolio\ConsoleRPG\ConsoleRPG\Inventory.h(27,24): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Character.cpp')
+  
+  Game.cpp
+E:\VGD\Ty\Portfolio\ConsoleRPG\ConsoleRPG\Inventory.h(27,24): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Game.cpp')
+  
+  Inventory.cpp
+E:\VGD\Ty\Portfolio\ConsoleRPG\ConsoleRPG\Inventory.h(27,24): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Inventory.cpp')
+  
+E:\VGD\Ty\Portfolio\ConsoleRPG\ConsoleRPG\Inventory.cpp(13,23): warning C4018: '<': signed/unsigned mismatch
+E:\VGD\Ty\Portfolio\ConsoleRPG\ConsoleRPG\Inventory.cpp(26,23): warning C4018: '<': signed/unsigned mismatch
+E:\VGD\Ty\Portfolio\ConsoleRPG\ConsoleRPG\Inventory.cpp(50,23): warning C4018: '<': signed/unsigned mismatch
+E:\VGD\Ty\Portfolio\ConsoleRPG\ConsoleRPG\Inventory.cpp(61,26): warning C4018: '<': signed/unsigned mismatch
+  Item.cpp
+  Main.cpp
+E:\VGD\Ty\Portfolio\ConsoleRPG\ConsoleRPG\Inventory.h(27,24): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Main.cpp')
+  
+  Monster.cpp
+  Travel.cpp
+E:\VGD\Ty\Portfolio\ConsoleRPG\ConsoleRPG\Inventory.h(27,24): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Travel.cpp')
+  
+  Weapon.cpp
+  Generating Code...
+  ConsoleRPG.vcxproj -> E:\VGD\Ty\Portfolio\ConsoleRPG\Debug\ConsoleRPG.exe
